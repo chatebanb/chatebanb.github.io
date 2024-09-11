@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://chatebanb.github.io/sitemap.html.gz
+Sitemap: https://chatebanb.github.io/app/sitemap.html.gz
+Sitemap: https://chatebanb.github.io/assets/sitemap.html.gz
+Sitemap: https://chatebanb.github.io/css/sitemap.html.gz
+Sitemap: https://chatebanb.github.io/includes/sitemap.html.gz
+Sitemap: https://chatebanb.github.io/item/sitemap.html.gz
+Sitemap: https://chatebanb.github.io/src/sitemap.html.gz
